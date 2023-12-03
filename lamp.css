@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+body {
+    background-color: rgb(91, 101, 238);
+}
+
+.light {
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    background-color: rgba(255, 255, 255, 0.541);
+    height: 9pc;
+    width: 9pc;
+    border-radius: 1pc;
+    padding: .5pc;
+    z-index: 10;
+}
+
+.l-i {
+    margin-top: 2pc;
+}
+
+.p {
+    font-weight: 700;
+}
+
+.cent {
+    color: rgb(85, 81, 81);
+}
+
+.yellow {
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    background-color: yellow;
+    height: 9pc;
+    width: 9pc;
+    border-radius: 1pc;
+}
